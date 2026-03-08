@@ -1,0 +1,103 @@
+{
+  "business_name": "LaraVisionX",
+  "brand_voice": "innovative, forward-thinking, professional, and inspiring with a clear, confident tone",
+  "target_audience": "businesses seeking custom software, IT consulting, digital growth, and modern UI/UX; and learners (students and software employees) who want future-ready tech skills through online software training",
+  "services": [
+    {
+      "name": "Software Development",
+      "benefits": [
+        "End-to-end development of robust, scalable digital solutions",
+        "Modern architectures and best practices to support long-term growth",
+        "Ongoing maintenance and optimization for performance and reliability"
+      ],
+      "ideal_customers": "startups and established companies that need custom software, web platforms, or internal tools built or modernized",
+      "keywords": [
+        "custom software development",
+        "web applications",
+        "scalable solutions",
+        "IT development",
+        "digital transformation"
+      ]
+    },
+    {
+      "name": "IT Consulting",
+      "benefits": [
+        "Strategic guidance to align technology with business goals",
+        "Roadmaps for digital transformation and modernization",
+        "Objective advice on tools, platforms, and architecture"
+      ],
+      "ideal_customers": "business leaders and IT teams who want to plan, prioritize, or optimize their technology investments",
+      "keywords": [
+        "IT consulting",
+        "technology strategy",
+        "digital transformation",
+        "tech advisory"
+      ]
+    },
+    {
+      "name": "UI/UX Design",
+      "benefits": [
+        "User-centered interfaces that improve usability and engagement",
+        "Consistent digital experiences that strengthen brand perception",
+        "Designs that reduce friction and support higher conversion"
+      ],
+      "ideal_customers": "product owners and businesses who want intuitive, beautiful interfaces for web or mobile applications",
+      "keywords": [
+        "UI design",
+        "UX design",
+        "user experience",
+        "product design",
+        "interface design"
+      ]
+    },
+    {
+      "name": "Digital Marketing",
+      "benefits": [
+        "Increased brand visibility and awareness across digital channels",
+        "Data-driven campaigns focused on growth and performance",
+        "Social media, SEO, and performance marketing strategies"
+      ],
+      "ideal_customers": "brands and businesses that want to grow their online presence and acquire more customers through digital channels",
+      "keywords": [
+        "digital marketing",
+        "social media marketing",
+        "SEO",
+        "performance marketing",
+        "online growth"
+      ]
+    },
+    {
+      "name": "Online Software Trainings",
+      "benefits": [
+        "Hands-on learning with real-world software tools and technologies",
+        "Improved technical proficiency for students and working professionals",
+        "Confidence to apply skills in academic, professional, or project settings"
+      ],
+      "ideal_customers": "students, fresh graduates, and software employees who want to upskill in modern software and technology",
+      "keywords": [
+        "online software training",
+        "edtech",
+        "technical skills",
+        "career growth",
+        "future-ready learning"
+      ]
+    },
+    {
+      "name": "Outsourcing Development",
+      "benefits": [
+        "Access to experienced development teams without in-house hiring overhead",
+        "Flexible engagement models to support product development and scaling",
+        "Support across development, product design, QA, and consultancy"
+      ],
+      "ideal_customers": "companies that want to extend their development capacity or outsource entire projects to a reliable partner",
+      "keywords": [
+        "outsourcing development",
+        "dedicated development team",
+        "software outsourcing",
+        "product development",
+        "QA and consultancy"
+      ]
+    }
+  ]
+}
+
